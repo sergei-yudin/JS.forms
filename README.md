@@ -1,6 +1,6 @@
 # Popovers
 
-[![Build status](https://github.com/sergei-yudin/JS.Working_environment/actions/workflows/deploy.yml/badge.svg)](https://github.com/sergei-yudin/JS.Working_environment/actions/workflows/deploy.yml)
+[![Build status](https://github.com/sergei-yudin/JS.forms/actions/workflows/deploy.yml/badge.svg)](https://github.com/sergei-yudin/JS.forms/actions/workflows/deploy.yml)
 
 ## GitHub Pages
 
